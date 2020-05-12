@@ -1,13 +1,13 @@
 import React from "react"
 import Layout from "../components/layout"
 
-const ContactMe = () => {
+const Projects = () => {
 
   return (
     <Layout>
-      <p>Please contact me</p>
+      <h1>Projects</h1>
     </Layout>
   )
 }
 
-export default ContactMe 
+export default Projects

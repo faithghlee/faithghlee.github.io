@@ -16,3 +16,12 @@ h2{
   margin-right: 10rem;
 
 }
+.background-image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  margin-left: 20rem;
+  margin-right:20rem;
+  margin-bottom: 2rem;
+}
+
