@@ -1,11 +1,13 @@
 import React from "react"
 import Layout from "../components/layout"
-import indexStyle from "../styles/index.scss"
-
+import "../styles/index.scss"
+import profileImage from "../images/profile_image.jpeg"
 const IndexPage = () => {
 
   return (
     <Layout>
+      <div className="introduction">
+      <img className="profile-pic" src={profileImage}></img>
       <h1> Faith Lee</h1>
       <h1> Data Scientist | Statistician </h1>
       <p> I am a data scientist/statistician based in Quebec City, QC. I hold a master's degree in biostatistics and I have experience in analyzing data coming from different domains. I am very interested in the fields of survival analysis, longitudinal data analysis, machine learning and use of statistics in finance. I am also passionate in learning about computer science and the French language.</p>
@@ -21,7 +23,7 @@ const IndexPage = () => {
       <h1>Curriculum Vitae</h1>
       <a href="https://www.linkedin.com/in/faith-lee-6257b193/"><p> LinkedIn</p></a>
       <a href="https://github.com/faithghlee"><p> GitHub</p></a>
-      <h2></h2>
+      </div>
 
 
 
