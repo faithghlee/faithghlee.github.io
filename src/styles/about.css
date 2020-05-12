@@ -1,27 +1,9 @@
 
-h1 {
-    margin-left: 20rem;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-}
-
-p {
-    margin-left: 20rem; 
-    margin-right: 10rem;
-}
-h2{
-  margin-left: 20rem; 
-  font: 1em sans-serif;
-  margin-right: 10rem;
-
-}
 .background-image {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   margin-left: 20rem;
-  margin-right:20rem;
-  margin-bottom: 2rem;
+  margin-right:10rem;
+  margin-bottom: 5px;
 }
-
