@@ -6,19 +6,11 @@ const AboutMe = () => {
 
   return (
     <Layout>
-      <h1> Faith Lee</h1>
-      <h1> Data Scientist | Statistician </h1>
-      <p> I am a data scientist/statistician based in Quebec City, QC. I hold a master's degree in biostatistics and I have experience in analyzing data coming from different domains. I am very interested in the fields of survival analysis, longitudinal data analysis, machine learning and use of statistics in finance. I am also passionate in learning about computer science and the French language.</p>
+      <h1> Hello there. Thanks for dropping by. </h1>
+      <p> I am Faith Lee, a Singaporean who has been living in Canada since 2013. I first moved to Newfoundland on my own for my bachelor's degree. 
+      I have lived in St. John's, Waterloo, Toronto, Ottawa and now Quebec City. Being able to live in different places has taught me how to adapt easily to circumstances and be independent. </p>
 
-      <h1>Skills</h1>
-      <h2> Python, R, SAS, Java, HTML, CSS, LaTeX</h2>
-      <h2> English, Mandarin Chinese, French (intermediate-advance)</h2>
-
-      <h1>Experience</h1>
-      <h2> Data Scientist, MindBridge Analytics Inc. (Jun 2018 - Apr 2020)</h2>
-      <h2> Co-op Term, Institute for Clinical and Evaluative Sciences (May 2017 - Dec 2017)</h2>
-
-
+      <p> I derive a great amount of joy from learning new things, and constantly look to occupy my spare time with picking up something new. I also love cooking, running and reading.</p>
       </Layout>
   )
 

@@ -3,6 +3,7 @@ import Layout from "../components/layout"
 import indexStyle from "../styles/index.scss"
 
 const IndexPage = () => {
+
   return (
     <Layout>
       <h1> Faith Lee</h1>
@@ -11,11 +12,18 @@ const IndexPage = () => {
 
       <h1>Skills</h1>
       <h2> Python, R, SAS, Java, HTML, CSS, LaTeX</h2>
-      <h2> English, Mandarin Chinese, French (intermediate-advance)</h2>
+      <h2> English (bilingual), Mandarin Chinese (bilingual), French (intermediate-advance)</h2>
 
       <h1>Experience</h1>
       <h2> Data Scientist, MindBridge Analytics Inc. (Jun 2018 - Apr 2020)</h2>
-      <h2> Co-op Term, Institute for Clinical and Evaluative Sciences (May 2017 - Dec 2017)</h2>
+      <h2> Analyst (Co-op), Institute for Clinical and Evaluative Sciences (May 2017 - Dec 2017)</h2>
+
+      <h1>Curriculum Vitae</h1>
+      <a href="https://www.linkedin.com/in/faith-lee-6257b193/"><p> LinkedIn</p></a>
+      <a href="https://github.com/faithghlee"><p> GitHub</p></a>
+      <h2></h2>
+
+
 
     </Layout>
 
